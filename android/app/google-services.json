@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374390431481",
+    "project_id": "staysafe-78d97",
+    "storage_bucket": "staysafe-78d97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374390431481:android:9c1c67a74b9a52f3dc8c28",
+        "android_client_info": {
+          "package_name": "com.mahesh.staysafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374390431481-ggha19ig30v1q5et2hof5h8df8e7i6jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe0fH6i7JqpVknRzv5DAU_TGHH5Y7B9zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374390431481-ggha19ig30v1q5et2hof5h8df8e7i6jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
